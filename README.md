@@ -3,9 +3,9 @@
 
 ### I AM A
 :man_technologist: **software developer**  
-*(web fullstack and a little bit of mobile)*, 
+*(web fullstack and a little bit of mobile)*
 
-:control_knobs: **dj/producer/musician** 
+:control_knobs: **dj/producer/musician**  
 *(tech/progressive and tribal since 2015)*  
 check out my [soundcloud](https://soundcloud.com/djandregrossi), [spotify](https://open.spotify.com/artist/6BokBj5lNdZfhFYxn1xkid) and [official podcast](https://podcasts.apple.com/us/podcast/andr%C3%A9-grossis-podcast/id1440229734))
 
@@ -13,8 +13,8 @@ check out my [soundcloud](https://soundcloud.com/djandregrossi), [spotify](https
 *(PSN ID: [**andregrossi**](https://my.playstation.com/profile/andregrossi))*  
 
    
-#### CURRENT STACK
-These include tools, languages, services and platforms I actively use/have used, enjoy or am currently studying - not necessarily in this order and definitely not mutually exclusive.
+#### :wrench: CURRENT STACK
+Tools, languages, services and platforms I actively use/have used, enjoy or am currently studying - not necessarily in this order and definitely not mutually exclusive.
 
 <img src="https://img.shields.io/badge/-nodejs-efefef?style=for-the-badge&logo=node.js&logoColor=339933" /> <img src="https://img.shields.io/badge/-Typescript-efefef?style=for-the-badge&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/-NestJS-efefef?style=for-the-badge&logo=nestjs&logoColor=ea2845" /> <img src="https://img.shields.io/badge/-GraphQL-efefef?style=for-the-badge&logo=graphql&logoColor=E10098"/> <img src="https://img.shields.io/badge/-PostgreSQL-f4f4f4?style=for-the-badge&logo=postgresql&logoColor=336791" />
 

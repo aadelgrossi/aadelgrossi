@@ -1,5 +1,5 @@
 # Andre Grossi
-[![LinkedIn](https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/andregrossi/ "Linkedin") [![Gmail](https://img.shields.io/badge/-linkedin-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:iamandregrossi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/andregrossi/ "Linkedin") [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:iamandregrossi@gmail.com)
 
 ### I AM A
 :man_technologist: **software developer**  

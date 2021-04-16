@@ -1,17 +1,17 @@
 # Andre Grossi
 [![LinkedIn](https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/andregrossi/ "Linkedin") [![Gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:iamandregrossi@gmail.com)
 
-### I AM A
-:man_technologist: **software developer**  
-*(web fullstack and a little bit of mobile)*
+### I AM 
+:man_technologist: **a web developer**  
+*(fullstack and a bit of mobile)*
 
-:control_knobs: **dj/producer/musician**  
+:control_knobs: **a dj/producer/musician**  
 *(tech/progressive and tribal since 2015)*  
 check out my [soundcloud](https://soundcloud.com/djandregrossi), [spotify](https://open.spotify.com/artist/6BokBj5lNdZfhFYxn1xkid) and [official podcast](https://podcasts.apple.com/us/podcast/andr%C3%A9-grossis-podcast/id1440229734))
 
-:video_game: **tech enthusiast & gamer**  
-*(PSN ID: [**andregrossi**](https://my.playstation.com/profile/andregrossi))*  
-
+:cake: **the tech / operations / content guy for [Colher de Açucar Confeitaria](https://colherdeacucar.com.br/)**  
+*visuals/design & media, infra/operations and social accounts management*  
+IG: [@colherdeacucarconf](https://www.instagram.com/colherdeacucarconf/)
    
 #### :wrench: CURRENT STACK
 Tools, languages, services and platforms I actively use/have used, enjoy or am currently studying - not necessarily in this order and definitely not mutually exclusive.

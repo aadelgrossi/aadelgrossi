@@ -3,18 +3,19 @@
 
 ### I AM 
 :man_technologist: **a web developer**  
-*(fullstack and a bit of mobile)*
+*back & front-end web and a bit of mobile*
 
-:control_knobs: **a dj/producer/musician**  
-*(tech/progressive and tribal since 2015)*  
-check out my [soundcloud](https://soundcloud.com/djandregrossi), [spotify](https://open.spotify.com/artist/6BokBj5lNdZfhFYxn1xkid) and [official podcast](https://podcasts.apple.com/us/podcast/andr%C3%A9-grossis-podcast/id1440229734))
-
-:cake: **the tech / operations / content guy for [Colher de Açucar Confeitaria](https://colherdeacucar.com.br/)**  
-*visuals/design & media, infra/operations and social accounts management*  
+:cake: **IT / operations / visuals at [Colher de Açucar Confeitaria](https://colherdeacucar.com.br/)**  
+*taking care of all the tech, media, infra/operations and socials*  
 IG: [@colherdeacucarconf](https://www.instagram.com/colherdeacucarconf/)
+
+:control_knobs: **a dj/producer/musician** on hold  ⏸️  
+*(tech/progressive and tribal since 2015)*  
+check out my [soundcloud](https://soundcloud.com/djandregrossi), [spotify](https://open.spotify.com/artist/6BokBj5lNdZfhFYxn1xkid) and [official podcast](https://podcasts.apple.com/us/podcast/andr%C3%A9-grossis-podcast/id1440229734)
+
    
 :wrench: **A user and enthusiast**  
-of technologies and services currently including
+of incredible and powerful technologies/services/platforms including
 
 <img src="https://img.shields.io/badge/-nodejs-efefef?style=for-the-badge&logo=node.js&logoColor=339933" /> <img src="https://img.shields.io/badge/-Typescript-efefef?style=for-the-badge&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/-NestJS-efefef?style=for-the-badge&logo=nestjs&logoColor=ea2845" /> <img src="https://img.shields.io/badge/-GraphQL-efefef?style=for-the-badge&logo=graphql&logoColor=E10098"/>  
  <img src="https://img.shields.io/badge/-PostgreSQL-f4f4f4?style=for-the-badge&logo=postgresql&logoColor=336791" />  <img src="https://img.shields.io/badge/-prisma-efefef?style=for-the-badge&logo=prisma&logoColor=2D3748" /> <img src="https://img.shields.io/badge/-Supabase-f4f4f4?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />  

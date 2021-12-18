@@ -1,20 +1,15 @@
 # Andre Grossi
 [![LinkedIn](https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/andregrossi/ "Linkedin") [![Gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:iamandregrossi@gmail.com)
 
-### I AM 
-:man_technologist: **a web developer**  
-*back & front-end web and a bit of mobile*
-
-:cake: **IT / operations / visuals at [Colher de Açucar Confeitaria](https://colherdeacucar.com.br/)**  
-*taking care of all the tech, media, infra/operations and socials*  
-IG: [@colherdeacucarconf](https://www.instagram.com/colherdeacucarconf/)
+:man_technologist: **Front-end Engineer at [Polkastarter](https://polkastarter.com/)**  
+:cake: **Head of Technology / Operations & Media at [Colher de Açucar Confeitaria](https://colherdeacucar.com.br/)**
 
 :control_knobs: **a dj/producer/musician** on hold  ⏸️  
 *(tech/progressive and tribal since 2015)*  
 check out my [soundcloud](https://soundcloud.com/djandregrossi), [spotify](https://open.spotify.com/artist/6BokBj5lNdZfhFYxn1xkid) and [official podcast](https://podcasts.apple.com/us/podcast/andr%C3%A9-grossis-podcast/id1440229734)
 
    
-:wrench: **A user and enthusiast**  
+:wrench: **a user and enthusiast**  
 of incredible and powerful technologies/services/platforms including
 
 <img src="https://img.shields.io/badge/-nodejs-efefef?style=for-the-badge&logo=node.js&logoColor=339933" /> <img src="https://img.shields.io/badge/-Typescript-efefef?style=for-the-badge&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/-NestJS-efefef?style=for-the-badge&logo=nestjs&logoColor=ea2845" /> <img src="https://img.shields.io/badge/-GraphQL-efefef?style=for-the-badge&logo=graphql&logoColor=E10098"/>  

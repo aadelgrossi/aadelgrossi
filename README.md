@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/andregrossi/ "Linkedin") [![Gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:iamandregrossi@gmail.com)
 
 :man_technologist: **Front-end Engineer at [Polkastarter](https://polkastarter.com/)**  
-:cake: **Head of Technology / Operations & Media at [Colher de Açucar Confeitaria](https://colherdeacucar.com.br/)**
+:cake: **Tech Operations at [Colher de Açucar Confeitaria](https://colherdeacucar.com.br/)**
 
 :control_knobs: **a dj/producer/musician** on hold  ⏸️  
 *(tech/progressive and tribal since 2015)*  

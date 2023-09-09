@@ -1,13 +1,8 @@
 # Andre Grossi
 [![LinkedIn](https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/andregrossi/ "Linkedin") [![Gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:iamandregrossi@gmail.com)
 
-:man_technologist: **Front-end Engineer at [Polkastarter](https://polkastarter.com/)**  
-:cake: **Tech Operations at [Colher de Açucar Confeitaria](https://colherdeacucar.com.br/)**
-
-:control_knobs: **a dj/producer/musician** on hold  ⏸️  
-*(tech/progressive and tribal since 2015)*  
-check out my [soundcloud](https://soundcloud.com/djandregrossi), [spotify](https://open.spotify.com/artist/6BokBj5lNdZfhFYxn1xkid) and [official podcast](https://podcasts.apple.com/us/podcast/andr%C3%A9-grossis-podcast/id1440229734)
-
+:man_technologist: **Tech Lead at [Polkastarter](https://polkastarter.com/)**  
+:cake: **Head of Tech / Operations at [Colher de Açucar Confeitaria](https://colherdeacucar.com.br/)**
    
 :wrench: **a user and enthusiast**  
 of incredible and powerful technologies/services/platforms including

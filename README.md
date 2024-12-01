@@ -1,7 +1,7 @@
 # Andre Grossi
 [![LinkedIn](https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/andregrossi/ "Linkedin") [![Gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:iamandregrossi@gmail.com)
 
-:man_technologist: **Tech Lead at [Polkastarter](https://polkastarter.com/)**  
+:man_technologist: **Tech Lead at  [GAM3S.GG](https://gam3s.gg/)** 
 :cake: **Head of Tech / Operations at [Colher de Açucar Confeitaria](https://colherdeacucar.com.br/)**
    
 :wrench: **a user and enthusiast**  
